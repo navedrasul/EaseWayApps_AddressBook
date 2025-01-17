@@ -1,5 +1,5 @@
 # SageCore_AddressBook
-Address Book microservice made using Spring Boot (Java), hosted on Docker.
+Address Book microservice API made using Spring Boot (Java), hosted on Docker.
 
 ## License
 
