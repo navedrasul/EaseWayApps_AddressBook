@@ -1,6 +1,8 @@
-# EaseWayApps
+# EaseWayApps_AddressBook_API
 
-**EaseWayApps** is a suite of standalone apps, APIs, Frontend Apps, and SPAs designed to assist general users in their day-to-day tasks. Built with **Spring Boot (Java)** and hosted on **Docker**.
+**EaseWayApps** is a suite of standalone apps, APIs, Frontend Apps, and SPAs designed to assist general users in their day-to-day tasks.
+
+**EaseWayApps_AddressBook_API** is an API that helps you organise your contacts. It's built as a microservice with **Spring Boot (Java)** and hosted on **Docker**.
 
 ## License
 
